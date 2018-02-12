@@ -1,7 +1,6 @@
-# intellij-shortcuts
+# intellij-settings
 
-copy file to:
+open intellij
 
-  Windows and *NIX systems: <User home>/.IntelliJ IDEA<xx>/config/keymaps
-
-  macOS: ~/Library/Preferences/IntelliJ IDEA<xx>/keymaps/
+go to: 
+File/import settings
